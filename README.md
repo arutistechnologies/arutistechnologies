@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Arutis Technologies</h1>
+<h1 align="center">🚀 Arutis Technologies Private Limited</h1>
 <h3 align="center">We Build Powerful Websites & Mobile Apps</h3>
 
 <p align="center">
